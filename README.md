@@ -3,7 +3,7 @@
 # Miembros del grupo
 
 - Felipe Cardenas Torres, CC 1004753583, Ingenieria mecanica
-- Carlos Humberto Otalora Palmezano, CC 100395081, Ingenieria mecanica
+- Carlos Humberto Otalora Palmezano, CC 1003950851, Ingenieria mecanica
 
 # Datos
 
